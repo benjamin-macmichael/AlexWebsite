@@ -1,0 +1,35 @@
+.emphasis {
+    font-weight: bold;
+    color: cornflowerblue;
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.color {
+    color: lightslategrey;
+}
+
+.homebackground {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDCIQhBFvy39pOxgX4jG7BgFisglGbFlr6Hw&usqp=CAU);
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.blue {
+    color: mintcream;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
